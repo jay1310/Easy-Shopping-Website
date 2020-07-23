@@ -1,8 +1,8 @@
-
 Project Work
+
 Name: Jay Shrivastava
 Batch: Full Stack-M1
-------------------------------------------------------------------
+----------------------------------------------------------------------------------------------
 Instructions:
 1. Please import the estore.sql file in 'estore' named databse before viewing the website.
 2.The file is stored in database folder . Project contents are only in project folder.
