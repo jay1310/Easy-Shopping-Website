@@ -13,6 +13,7 @@ CUSTOMERS:
 6. Each product has reviews section where users can see the reviews and can also add reviews.
 
 ADMIN PANEL:
+
 7. After logging in, admin panel is shown.
 8. Admin can view products according to categories.
 9. Admin can add, edit or remove the products from databse as per product id.
