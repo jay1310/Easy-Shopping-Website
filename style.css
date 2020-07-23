@@ -1,0 +1,76 @@
+
+a
+{ 
+    text-decoration: none; 
+    background-color: transparent;
+    color:inherit; 
+}
+a:hover 
+{
+     color:black; 
+     text-decoration:none; 
+}
+.logo
+{
+    float: left; 
+    height: 50px; 
+    padding: 15px; 
+    font-size: 20px; 
+    font-weight: bold;   
+}
+
+
+#banner_image{
+    
+    width: auto;
+    padding-top: 75px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(Images/back.jpg) center;
+    background-size: cover;
+}
+
+#banner_content{
+    position: relative;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    margin-top: 12%;
+    margin-bottom: 12%;
+    background-color: rgba(0, 0, 0, 0.7);
+    max-width: 660px;
+}
+footer{
+    padding: 10px 0;
+    background-color: #101010;
+    color:#9d9d9d;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    
+}
+
+.panel{
+    margin: 80px 0px 0px 0px;
+}
+.panel-heading{
+    font-size: 150%;
+    padding-left:10px; 
+}
+.panel-footer{
+    margin-top: 100px;
+}
+a.register{
+    color: blue;
+}
+#signup{
+    margin-top: 10px;
+}
+.content-product{
+    margin-top:100px;
+}
+
+.cart-table{
+    margin-top:100px;
+}
+
