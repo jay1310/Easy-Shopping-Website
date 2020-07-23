@@ -9,7 +9,8 @@ Instructions:
 ------------------------------------------------------------------------------------------------
 About the Project:
 1. It is a completely responsive ecommerce website- EASY-SHOPPING (adaptable to all screen sizes).
----------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+
 CUSTOMERS:
 2. Customers can signup, login.
 3. Customers can select products from different sections ( including men,women and kids which are fetched from database) and can add them to cart.
@@ -24,7 +25,7 @@ ADMIN PANEL:
 -----------------------------------------------------------------------------------
 11. Proper header and footer are added based on customer or admin view.
 
-                                                      THANK YOU
+                                             THANK YOU
 
 
 
