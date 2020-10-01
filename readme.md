@@ -1,4 +1,4 @@
-# Easy-Shopping Website
+# PHP based Easy-Shopping Website
 
 ## About the Project:
 
